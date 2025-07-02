@@ -34,6 +34,9 @@ programa {
     senao se(grossSalary <= 5157.43){
       socialSecurity = grossSalary * 0.14
     }
+    senao se (grossSalary > 5157.43){
+      socialSecurity = 5157.43 * 0.14
+    }
 
     incomeTaxBase = grossSalary - socialSecurity - (dependents * 189.59)
     se (incomeTaxBase < 2259.20)

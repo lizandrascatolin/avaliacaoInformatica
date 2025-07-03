@@ -1,0 +1,4 @@
+Folha de pagamento:
+Fazer os seguintes testes
+Salário -> 10.000
+Dependestes: 1

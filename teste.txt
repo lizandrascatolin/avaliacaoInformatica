@@ -22,3 +22,16 @@ IRRF                    ->    178,2445
 Desconto Vale transporte->    300,00
 
 Valor a receber -> 4.171,7555
+
+TESTE 3
+Salário -> 1518
+Dependestes: 0
+
+Resultados
+Salário                 ->  1518
+Vale transporte         ->    350,00
+INSS                    ->    113,85
+IRRF                    ->    0
+Desconto Vale transporte->    91,08
+
+Valor a receber -> 1.663,07
